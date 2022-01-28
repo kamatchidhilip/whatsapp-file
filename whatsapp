@@ -1,0 +1,111 @@
+
+2022-01-15 06:58:53 INFO  Commonfiles:47- Loading the property
+2022-01-15 06:58:53 INFO  Commonfiles:58- Launching the chrome
+2022-01-15 06:58:55 INFO  Commonfiles:68- Navigating to url
+2022-01-15 06:59:01 INFO  testcase:87- START
+2022-01-15 06:59:01 INFO  testcase:30- login started
+2022-01-15 06:59:01 INFO  testcase:33- Enter the username
+2022-01-15 06:59:01 INFO  testcase:36- Enter the password
+2022-01-15 06:59:02 INFO  testcase:39- login button clicked
+2022-01-15 06:59:04 INFO  testcase:42- Going to myprofile
+2022-01-15 06:59:06 INFO  testcase:45- Entered firstname
+2022-01-15 06:59:06 INFO  testcase:49- Entered lastname
+2022-01-15 06:59:06 INFO  testcase:53- Entered phonenumber
+2022-01-15 06:59:06 INFO  testcase:57- Entered emailid
+2022-01-15 06:59:06 INFO  testcase:61- Entered password
+2022-01-15 06:59:07 INFO  testcase:65- selected country
+2022-01-15 06:59:09 INFO  testcase:67- Albania selected
+2022-01-15 06:59:09 INFO  testcase:70- Entered state
+2022-01-15 06:59:09 INFO  testcase:74- Entered city
+2022-01-15 07:03:30 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-15 07:03:30 INFO  Commonfiles:47- Loading the property
+2022-01-15 07:03:30 INFO  Commonfiles:58- Launching the chrome
+2022-01-15 07:03:31 INFO  Commonfiles:68- Navigating to url
+2022-01-15 07:03:38 INFO  testcase:87- START
+2022-01-15 07:03:38 INFO  testcase:30- login started
+2022-01-15 07:03:38 INFO  testcase:33- Enter the username
+2022-01-15 07:03:38 INFO  testcase:36- Enter the password
+2022-01-15 07:03:38 INFO  testcase:39- login button clicked
+2022-01-15 07:03:40 INFO  testcase:42- Going to myprofile
+2022-01-15 07:03:41 INFO  testcase:45- Entered firstname
+2022-01-15 07:03:42 INFO  testcase:49- Entered lastname
+2022-01-15 07:03:42 INFO  testcase:53- Entered phonenumber
+2022-01-15 07:03:42 INFO  testcase:57- Entered emailid
+2022-01-15 07:03:42 INFO  testcase:61- Entered password
+2022-01-15 07:03:42 INFO  testcase:65- selected country
+2022-01-15 07:03:49 INFO  testcase:67- Albania selected
+2022-01-15 07:03:49 INFO  testcase:70- Entered state
+2022-01-15 07:03:49 INFO  testcase:74- Entered city
+2022-01-15 07:04:53 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-15 07:04:53 INFO  Commonfiles:47- Loading the property
+2022-01-15 07:04:53 INFO  Commonfiles:58- Launching the chrome
+2022-01-15 07:04:55 INFO  Commonfiles:68- Navigating to url
+2022-01-15 07:05:01 INFO  testcase:88- START
+2022-01-15 07:05:01 INFO  testcase:30- login started
+2022-01-15 07:05:01 INFO  testcase:33- Enter the username
+2022-01-15 07:05:01 INFO  testcase:36- Enter the password
+2022-01-15 07:05:01 INFO  testcase:39- login button clicked
+2022-01-15 07:05:04 INFO  testcase:42- Going to myprofile
+2022-01-15 07:05:05 INFO  testcase:45- Entered firstname
+2022-01-15 07:05:05 INFO  testcase:49- Entered lastname
+2022-01-15 07:05:05 INFO  testcase:53- Entered phonenumber
+2022-01-15 07:05:06 INFO  testcase:57- Entered emailid
+2022-01-15 07:05:06 INFO  testcase:61- Entered password
+2022-01-15 07:05:06 INFO  testcase:65- selected country
+2022-01-15 07:05:16 INFO  testcase:67- Albania selected
+2022-01-15 07:05:16 INFO  testcase:70- Entered state
+2022-01-15 07:05:16 INFO  testcase:74- Entered city
+2022-01-15 07:09:39 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-15 07:09:39 INFO  Commonfiles:47- Loading the property
+2022-01-15 07:09:39 INFO  Commonfiles:58- Launching the chrome
+2022-01-15 07:09:42 INFO  Commonfiles:68- Navigating to url
+2022-01-15 07:09:51 INFO  testcase:88- START
+2022-01-15 07:09:51 INFO  testcase:30- login started
+2022-01-15 07:09:51 INFO  testcase:33- Enter the username
+2022-01-15 07:09:51 INFO  testcase:36- Enter the password
+2022-01-15 07:09:51 INFO  testcase:39- login button clicked
+2022-01-15 07:09:53 INFO  testcase:42- Going to myprofile
+2022-01-15 07:09:54 INFO  testcase:45- Entered firstname
+2022-01-15 07:09:54 INFO  testcase:49- Entered lastname
+2022-01-15 07:09:54 INFO  testcase:53- Entered phonenumber
+2022-01-15 07:09:55 INFO  testcase:57- Entered emailid
+2022-01-15 07:09:55 INFO  testcase:61- Entered password
+2022-01-15 07:09:55 INFO  testcase:65- selected country
+2022-01-15 07:09:57 INFO  testcase:67- Albania selected
+2022-01-15 07:09:58 INFO  testcase:70- Entered state
+2022-01-15 07:09:58 INFO  testcase:74- Entered city
+2022-01-20 05:50:14 INFO  Commonfilesexamp:44- PHPtravels website begins
+2022-01-20 05:50:14 INFO  Commonfilesexamp:45- Loading the property
+2022-01-20 05:50:14 INFO  Commonfilesexamp:56- Launching the chrome
+2022-01-20 05:50:15 INFO  Commonfilesexamp:66- Navigating to url
+2022-01-20 05:50:17 INFO  PHPtravelsprofile:79- START
+2022-01-20 05:50:17 INFO  PHPtravelsprofile:32- login started
+2022-01-20 05:50:17 INFO  PHPtravelsprofile:35- Enter the username
+2022-01-20 05:52:58 INFO  Commonfilesexamp:44- PHPtravels website begins
+2022-01-20 05:52:58 INFO  Commonfilesexamp:45- Loading the property
+2022-01-20 05:52:58 INFO  Commonfilesexamp:56- Launching the chrome
+2022-01-20 05:52:59 INFO  Commonfilesexamp:66- Navigating to url
+2022-01-20 05:53:00 INFO  PHPtravelsprofile:79- START
+2022-01-20 05:53:00 INFO  PHPtravelsprofile:32- login started
+2022-01-20 05:53:00 INFO  PHPtravelsprofile:35- Enter the username
+2022-01-20 05:53:40 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-20 05:53:40 INFO  Commonfiles:47- Loading the property
+2022-01-20 05:53:40 INFO  Commonfiles:58- Launching the chrome
+2022-01-20 05:53:42 INFO  Commonfiles:68- Navigating to url
+2022-01-20 05:53:43 INFO  testcase:88- START
+2022-01-20 05:53:43 INFO  testcase:30- login started
+2022-01-20 05:53:43 INFO  testcase:33- Enter the username
+2022-01-20 05:54:57 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-20 05:54:57 INFO  Commonfiles:47- Loading the property
+2022-01-20 05:54:57 INFO  Commonfiles:58- Launching the chrome
+2022-01-20 05:54:58 INFO  Commonfiles:68- Navigating to url
+2022-01-20 05:55:00 INFO  testcase:88- START
+2022-01-20 05:55:00 INFO  testcase:30- login started
+2022-01-20 05:55:00 INFO  testcase:33- Enter the username
+2022-01-20 06:01:58 INFO  Commonfiles:46- PHPtravels website begins
+2022-01-20 06:01:58 INFO  Commonfiles:47- Loading the property
+2022-01-20 06:01:58 INFO  Commonfiles:58- Launching the chrome
+2022-01-20 06:01:59 INFO  Commonfiles:68- Navigating to url
+2022-01-20 06:02:01 INFO  testcase:88- START
+2022-01-20 06:02:01 INFO  testcase:30- login started
+2022-01-20 06:02:01 INFO  testcase:33- Enter the username
